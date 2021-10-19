@@ -1,1 +1,1 @@
-# FriutCatcher
+# Fruit-Catcher
